@@ -1,0 +1,6 @@
+Textový soubor je počítačový soubor složený 
+výhradně ze znaků. Kromě tisknutelných znaků
+ a mezer mohou textové soubory obsahovat omezenou
+ sadu řídicích znaků, zpravidla pouze znaky 
+konce řádků a tabulátory. Soubory, které obsahují 
+jiná data než znaky, nazýváme binárními.
