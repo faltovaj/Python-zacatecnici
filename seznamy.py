@@ -13,6 +13,8 @@ seznam = ["jablko","pomeranc","hruska"]
 print("Mame tento seznam ", seznam)
 # Pocet prvku seznamu - len
 print(f"Pocet prvku seznamu je {len(seznam)}")
+# Polozky seznamu jsou cislovane od 0: index 0 - prvni polozka, index 1 - druha polozka,
+# index 2 - treti polozka, ..., index len(senzam)-1 - posledni polozka
 # Vypiseme druhou polozku (= polozka s indexem 1)
 print(f"Polozka s indexem 1: {seznam[1]}")
 # Pridani nove polozky na konec seznamu pomoci append

@@ -9,7 +9,7 @@ print('Prvni test: Dobre rano')
 
 # Poznamka: Uvozovky "" nebo '' Python nerozlisuje, muzeme pouzivat oboje
 # Vypis promenne pozdrav
-pozdrav = "Vitej na kurzu Python!"
+pozdrav = "Vitejte na kurzu Python!"
 print("======= Vypis =========")
 print(pozdrav)
 
